@@ -154,8 +154,8 @@ body {
     color: var(--cor-de-fundo);
 }
 
-@media screen and(
-    max-width:780px;
+@media screen and (
+    max-width:800px
 ){
 body{
     background-color: #FFFFFF;
