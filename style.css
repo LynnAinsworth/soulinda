@@ -155,5 +155,10 @@ body {
 }
 
 @media screen and(
-    max-width:780px ;
-)
+    max-width:780px;
+){
+body{
+    background-color: #FFFFFF;
+}
+
+}
